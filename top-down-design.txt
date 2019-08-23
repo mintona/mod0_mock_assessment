@@ -1,0 +1,68 @@
+Making a Sandwich
+
+1 Prepare your workspace
+  1.1 Cutting board
+    1.1.1 Open cabinet
+      1.1.1.1 Remove cutting board
+    1.1.2 Set cutting board on counter
+
+  1.2 Knife
+    1.2.1 Open drawer
+      1.2.1.1 Remove knife from drawer
+    1.2.2 Set knife next to cutting board
+
+2 Prepare the ingredients
+  2.1 Bread
+    2.1.1 Get bread from bread box
+      2.1.1.1 Open bread bag
+        2.1.1.1.1 Take the closure tab off the bag
+        2.1.1.1.2 Untwist bag to expose the opening
+      2.1.1.2 Remove 2 slices of bread simultaneously
+        2.1.1.2.1 Reach in open bag and take out 2 slices of bread
+    2.1.2 Place the slices of bread side by side on the cutting board
+      2.1.2.1 Lay the slices of bread flat on the cutting board
+
+  2.2 Mayo
+    2.2.1 Get out mayo from refrigerator
+      2.2.1.1 Open mayo jar
+        2.2.1.1.1 Untwist the lid to remove from jar
+        2.2.1.1.2 Set the lid aside
+    2.2.2 Relocate the open mayo jar next to the cutting board
+
+  2.3 Turkey
+    2.3.1 Get out turkey from refrigerator
+      2.3.1.1 Open the bag of turkey
+      2.3.1.2 Remove desired amount of turkey from the bag
+        2.3.1.2.1 Reach into bag and take 3-4 oz of turkey out
+    2.3.2 Place turkey on cutting board
+
+  2.4 Cheese
+    2.4.1 Get out cheese from refrigerator
+      2.4.1.1 Open the bag of cheese
+      2.4.1.2 Remove one slice of cheese
+        2.4.1.2.1 Reach into bag and take out once slice of cheese
+    2.4.2 Place cheese on cutting board
+
+3 Assemble the sandwich
+  3.1 Spread the mayo on the face up side of each slice of bread
+    3.1.1 Scoop 1 tbsp of mayo out of the jar with the knife
+      3.1.1.1 Pick-up the knife from the counter
+      3.1.1.2 Put the knife into the jar of mayo
+      3.1.1.3 Scoop mayo onto the knife
+    3.1.2 Transfer the mayo to once slice of bread
+      3.1.2.1 Move the knife with the mayo over to the slice of bread
+      3.1.2.2 Dump the mayo from the knife onto the bread
+    3.1.3 Spread the mayo with the knife in an even layer
+      3.1.3.1 Move the knife back and forth to move the mayo around the bread
+    3.1.4 Repeat steps for the 2nd slice
+  3.2 Place the cheese on top of one slice of bread
+    3.2.1 Pick-up the cheese from the cutting board
+    3.2.2 Put the cheese down on one slice of bread
+  3.3 Place the turkey on top of the cheese
+    3.3.1 Pick-up the turkey from the cutting board
+    3.3.2 Put the turkey down on top of the cheese
+  3.4 Place the other slice of bread mayo side down on top of the cheese
+    3.4.1 Pick-up the bare slice of bread from the cutting board
+      3.4.1.1 Flip the bread 180 deg so it is mayo side down
+      3.4.1.2 Line the bread up so it matches the orientation of the bottom slice of bread
+    3.4.2 Place the bread on top of the cheese
