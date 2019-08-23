@@ -5,12 +5,10 @@ Making a Sandwich
     1.1.1 Open cabinet
       1.1.1.1 Remove cutting board
     1.1.2 Set cutting board on counter
-
   1.2 Knife
     1.2.1 Open drawer
       1.2.1.1 Remove knife from drawer
     1.2.2 Set knife next to cutting board
-
 2 Prepare the ingredients
   2.1 Bread
     2.1.1 Get bread from bread box
@@ -21,28 +19,24 @@ Making a Sandwich
         2.1.1.2.1 Reach in open bag and take out 2 slices of bread
     2.1.2 Place the slices of bread side by side on the cutting board
       2.1.2.1 Lay the slices of bread flat on the cutting board
-
   2.2 Mayo
     2.2.1 Get out mayo from refrigerator
       2.2.1.1 Open mayo jar
         2.2.1.1.1 Untwist the lid to remove from jar
         2.2.1.1.2 Set the lid aside
     2.2.2 Relocate the open mayo jar next to the cutting board
-
   2.3 Turkey
     2.3.1 Get out turkey from refrigerator
       2.3.1.1 Open the bag of turkey
       2.3.1.2 Remove desired amount of turkey from the bag
         2.3.1.2.1 Reach into bag and take 3-4 oz of turkey out
     2.3.2 Place turkey on cutting board
-
   2.4 Cheese
     2.4.1 Get out cheese from refrigerator
       2.4.1.1 Open the bag of cheese
       2.4.1.2 Remove one slice of cheese
         2.4.1.2.1 Reach into bag and take out once slice of cheese
     2.4.2 Place cheese on cutting board
-
 3 Assemble the sandwich
   3.1 Spread the mayo on the face up side of each slice of bread
     3.1.1 Scoop 1 tbsp of mayo out of the jar with the knife
