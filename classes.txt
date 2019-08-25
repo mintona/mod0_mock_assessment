@@ -1,0 +1,18 @@
+Class: Plant
+
+Attributes:
+flower (boolean)
+flower_status (boolean)
+current_leaf_size (integer)
+maximum_leaf_size (integer)
+current_plant_height (integer)
+maximum_plant_height (integer)
+light_requirement (string)
+minimum_water_requirement (boolean)
+shape (string)
+
+Methods:
+prune_plant (changes the shape and reduces current_plant_height )
+grow (references the minimum_water_requirement and light_requirement and if fulfilled, the current_leaf_size and current_plant_height will change until they reach maximum_leaf_size and maximum_plant_height)
+water_plant (references minimum_water_requirement and adds water if needed)
+open_flower (if the plant has a flower true, open_flower changes the flower_status to true if light_requirement is met and if not, flower_status stays false)
