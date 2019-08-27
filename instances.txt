@@ -1,0 +1,35 @@
+Instances of the Plant Class
+
+Object: Daisy
+
+flower: true
+flower_status: true (flower is open, not closed)
+current_leaf_length: 0
+maximum_leaf_size: 0
+current_plant_height: 4
+maximum_plant_height: 6
+light_requirement: "full sun to partial shade"
+soil_preference: "well-drained soil"
+shape: "tall stem and circular bloom"
+
+prune_plant: current_plant_height=2, shape: "short stem and circular bloom"
+grow: light_requirement and soil_preference match, therefore current_plant_height: 5
+water_plant: (references soil_preference and adds water if needed)
+open_flower: light_requirement is met, flower_status stays true
+
+Object: Fern
+
+flower: false
+flower_status: false
+current_leaf_length: 1
+maximum_leaf_size: 2
+current_plant_height: 12
+maximum_plant_height: 18
+light_requirement: "bright, indirect light"
+soil_preference: "moist and well-draining"
+shape: "long, triangle shape stems that resemble a spiny sphere"
+
+prune_plant: current_plant_height=8, shape: "shorter, blunt triangle shapes in a puffy sphere"
+grow: light_requirement and soil_preference match, therefore current_plant_height: 14 
+water_plant: (references soil_preference and adds water if needed)
+open_flower: light_requirement is met, there are now flowers, flower_status stays false
